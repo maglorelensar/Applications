@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\bin\Debug\_040319Wİn_InterfaceUygulama.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\bin\Debug\_040319Wİn_InterfaceUygulama.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\bin\Debug\_040319Wİn_InterfaceUygulama.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319Wİn_InterfaceUygulama\_040319Wİn_InterfaceUygulama\obj\Debug\_040319Wİn_InterfaceUygulama.pdb

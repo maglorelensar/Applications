@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\bin\Debug\280219_OOP_Giris.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\bin\Debug\280219_OOP_Giris.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\bin\Debug\280219_OOP_Giris.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\280219_OOP_Giris.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\_280219_OOP_Giris.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\_280219_OOP_Giris.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\280219_OOP_Giris.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\280219_OOP_Giris.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_OOP_Giris\280219_OOP_Giris\obj\Debug\280219_OOP_Giris.pdb

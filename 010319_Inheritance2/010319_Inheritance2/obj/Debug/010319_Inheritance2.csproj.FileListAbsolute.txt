@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\bin\Debug\010319_Inheritance2.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\bin\Debug\010319_Inheritance2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\bin\Debug\010319_Inheritance2.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\010319_Inheritance2.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\_010319_Inheritance2.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\_010319_Inheritance2.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\010319_Inheritance2.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\010319_Inheritance2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\010319_Inheritance2\010319_Inheritance2\obj\Debug\010319_Inheritance2.pdb

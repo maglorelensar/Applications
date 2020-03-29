@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\bin\Debug\030319_Enum.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\030319_Enum.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\_030319_Enum.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\_030319_Enum.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\030319_Enum.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\bin\Debug\030319_Enum.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\bin\Debug\030319_Enum.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\030319_Enum.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\030319_Enum\030319_Enum\obj\Debug\030319_Enum.pdb

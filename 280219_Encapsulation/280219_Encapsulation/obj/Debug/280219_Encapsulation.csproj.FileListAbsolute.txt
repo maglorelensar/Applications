@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\bin\Debug\280219_Encapsulation.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\bin\Debug\280219_Encapsulation.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\bin\Debug\280219_Encapsulation.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\280219_Encapsulation.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\_280219_Encapsulation.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\_280219_Encapsulation.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\280219_Encapsulation.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\280219_Encapsulation.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280219_Encapsulation\280219_Encapsulation\obj\Debug\280219_Encapsulation.pdb

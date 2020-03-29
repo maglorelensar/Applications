@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\bin\Debug\151219_Win_IEnumerator.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\bin\Debug\151219_Win_IEnumerator.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\bin\Debug\151219_Win_IEnumerator.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\151219_Win_IEnumerator.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\_151219_Win_IEnumerator.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\_151219_Win_IEnumerator.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\151219_Win_IEnumerator.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\151219_Win_IEnumerator.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\151219_Win_IEnumerator\151219_Win_IEnumerator\obj\Debug\151219_Win_IEnumerator.pdb

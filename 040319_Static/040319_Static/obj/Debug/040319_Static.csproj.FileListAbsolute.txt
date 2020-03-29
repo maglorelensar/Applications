@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\bin\Debug\040319_Static.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\bin\Debug\040319_Static.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\bin\Debug\040319_Static.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\040319_Static.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\_040319_Static.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\_040319_Static.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\040319_Static.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\040319_Static.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\040319_Static\040319_Static\obj\Debug\040319_Static.pdb

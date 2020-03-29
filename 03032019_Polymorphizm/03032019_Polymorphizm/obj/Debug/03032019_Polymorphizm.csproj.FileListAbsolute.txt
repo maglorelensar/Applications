@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\bin\Debug\03032019_Polymorphizm.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\bin\Debug\03032019_Polymorphizm.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\bin\Debug\03032019_Polymorphizm.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\03032019_Polymorphizm.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\_03032019_Polymorphizm.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\_03032019_Polymorphizm.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\03032019_Polymorphizm.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\03032019_Polymorphizm.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\03032019_Polymorphizm\03032019_Polymorphizm\obj\Debug\03032019_Polymorphizm.pdb

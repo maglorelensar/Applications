@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\bin\Debug\_040319_Abstract.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\bin\Debug\_040319_Abstract.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\bin\Debug\_040319_Abstract.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\_040319_Abstract\_040319_Abstract\obj\Debug\_040319_Abstract.pdb

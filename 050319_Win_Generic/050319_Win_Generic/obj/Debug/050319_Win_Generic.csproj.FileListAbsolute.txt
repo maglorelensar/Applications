@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\bin\Debug\050319_Win_Generic.exe.config
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\bin\Debug\050319_Win_Generic.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\bin\Debug\050319_Win_Generic.pdb
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\050319_Win_Generic.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\_050319_Win_Generic.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\_050319_Win_Generic.Properties.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\050319_Win_Generic.csproj.GenerateResource.Cache
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\050319_Win_Generic.exe
+C:\Users\LENOVO\documents\visual studio 2015\Projects\050319_Win_Generic\050319_Win_Generic\obj\Debug\050319_Win_Generic.pdb

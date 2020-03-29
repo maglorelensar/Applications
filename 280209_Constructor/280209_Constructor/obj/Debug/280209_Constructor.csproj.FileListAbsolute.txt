@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\bin\Debug\280209_Constructor.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\280209_Constructor.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\_280209_Constructor.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\_280209_Constructor.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\280209_Constructor.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\bin\Debug\280209_Constructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\bin\Debug\280209_Constructor.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\280209_Constructor.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\280209_Constructor\280209_Constructor\obj\Debug\280209_Constructor.pdb
